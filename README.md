@@ -27,7 +27,7 @@ Reconstruct the design of the QR Code Component from the Frontend Mentor beginne
 ### Links
 
 - Frontend Mentor Challenge: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Live Site URL: [https://izuca.github.io/qrcode-component/](https://your-live-site-url.com)
+- Live Site URL: [https://izuca.github.io/qrcode-component/](https://izuca.github.io/qrcode-component/)
 
 ## My process
 
