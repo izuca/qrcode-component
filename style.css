@@ -9,19 +9,16 @@
 
 }
 
-html, body, .aligner {
-    height: 100%;
-}
-
-body{
+*{
+    box-sizing: border-box;
     font-family: Outfit;
-    font-size: 15px;
-    font-weight: 400,700;
-    background-color: var(--Light-gray);
 }
-
-.aligner{
+body{
+    
+    font-size: 15px;
+    background-color: var(--Light-gray);
     display:flex;
+    min-height: 100vh;
     align-items: center;
     justify-content: center;
     flex-direction: column;
@@ -34,7 +31,6 @@ body{
 
 .container{
     background-color: var(--White);
-    align-content: center;
     padding: 17px;
     border-radius: 15px;
     box-shadow: 0px 10px 10px var(--Light-Dark);
@@ -50,13 +46,14 @@ h1{
     color:var(--Dark-blue);
     font-size: 22px;
     text-align: center;
-    
+    inline-size: 288px;
 }
 
 p{
     color: var(--Grayish-blue);
     text-align: center;
     font-weight: 425;
-    margin-top: 0px;
+    inline-size: 268px;
+    padding-left: 20px;
 }
 
